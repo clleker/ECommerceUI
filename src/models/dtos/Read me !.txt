@@ -1,0 +1,2 @@
+Prefix olarak "ApiRequest" ile biten nesneler apiye gönderilen nesnelerdir. 
+Prefix olarak "ApiResponse" ile biten nesneler api'den gelen nesnelerdir. 

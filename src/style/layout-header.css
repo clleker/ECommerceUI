@@ -1,0 +1,10 @@
+
+.layout-site-header {
+    padding: 0px;
+    height: 48px;
+    line-height: 48px;
+    width: 100%;
+    z-index: 100;
+    right: 0px;
+    background: #001529 !important;
+}
